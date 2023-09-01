@@ -2,7 +2,7 @@
 
 #### I'm Adam and I'm a senior machine learning engineer and technical lead.
 
-I do large-scale natural language processing (NLP) with deep neural networks. Lately I work on things like:
+I do large-scale natural language processing (NLP) with deep neural networks. Lately this is stuff like:
 - Parameter efficient fine-tuning (PEFT) strategies for some of the [biggest neural networks ever](https://arxiv.org/abs/2201.11990).
 - Multi-task learning for large distributed neural networks.
 - Controlled natural language generation (NLG).
